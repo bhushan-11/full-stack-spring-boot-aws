@@ -22,7 +22,7 @@ public class ProductDto {
 
     private Long id ;
 
-    private String namae ;
+    private String name ;
 
     private String description;
 
